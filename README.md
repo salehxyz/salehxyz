@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, and HTML
 - 💞️ I’m looking to collaborate on creating robots to trade and design smart webpages.
 - 📫 How to reach me: email: sa2674@nau.edu
+- I am adding a new line here
 
 <!---
 salehxyz/salehxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
