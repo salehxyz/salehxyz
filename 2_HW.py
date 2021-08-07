@@ -1,3 +1,5 @@
+# this code is about HW 1
+
 import math
 
 def pythagoreanTheorem (length_a, length_b):
