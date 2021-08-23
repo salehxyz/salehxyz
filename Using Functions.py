@@ -1,11 +1,13 @@
-# this code is about HW 1
+# This code will creat and then use some fuctions:
 
 import math
 
+# Function 1:
 def pythagoreanTheorem (length_a, length_b):
     return math.sqrt(length_a**2 + length_b ** 2)
 
 
+# Function 2:
 def listmagler(list_in):
     if len(list_in)%2==0:
         for i in range(len(list_in)):
@@ -19,7 +21,7 @@ def listmagler(list_in):
 
 
 
-
+# Function 3:
 def grad_calc(grads_in,to_drop):
     grads_in.sort()
     revised_grades = grads_in[to_drop:len(grads_in)+1]
@@ -39,16 +41,18 @@ def grad_calc(grads_in,to_drop):
 
 
 
-
-#test part A:
+# ---------------------------------------------------- #
+#Testing Function 1:
 print("Test part 1:")
 print(pythagoreanTheorem(2,2))
 
+# Testing Function 2:
 print("\n Test part 2:")
 a = [2,5,6,9]
 print(a)
 print(listmagler(a))
 
+# Testing Function 3:
 print("\n test part 3:")
 aa = [55,68,75,85,94,100,87]
 print("the intial grades are: " + str(aa))
