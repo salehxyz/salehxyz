@@ -1,4 +1,5 @@
 #this code is about ifelse
+# Below is an example how to use ifelse in Python:
 
 age = int(input("what is your age? "))
 if(age <=13):
