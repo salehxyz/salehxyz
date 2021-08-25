@@ -1,5 +1,5 @@
 This code will use classes to define 2D and 3D points and then use some functions to modify them:
-First it is needed to define a class for 2D points:
+First it is needed to define a class for 2D points: :)
 
 
 
